@@ -74,7 +74,7 @@ body {
 	font-size: 3rem;
 	position: relative;
 	margin-top: -100px;
-	margin-left: -200px;
+	margin-left: px;
 
 }
 .layer__end::before {
